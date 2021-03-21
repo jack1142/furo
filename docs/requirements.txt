@@ -1,2 +1,2 @@
-furo
+git+https://github.com/jack1142/furo@with_assets_built
 Sphinx>=3.5
